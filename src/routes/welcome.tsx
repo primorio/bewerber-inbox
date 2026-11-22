@@ -40,9 +40,13 @@ function Welcome() {
         <div className="bg-pine p-8 text-white md:p-10">
           <p className="text-sm tracking-wide text-white/70">Primorio</p>
           <h1 className="mt-6 font-serif text-4xl leading-tight">Dein erster Tag im Posteingang.</h1>
-          <p className="mt-4 text-[15px] leading-relaxed text-white/85">
-            Stell dir vor, du arbeitest schon bei uns. Im Posteingang warten Nachrichten von Kollegen und Kunden.
-            Bearbeite sie so, wie du es im Job tun würdest.
+          <p className="mt-5 font-serif text-2xl">Sei kreativ.</p>
+          <p className="mt-3 text-[15px] leading-relaxed text-white/90">
+            Du darfst Annahmen treffen, dir Sachen ausdenken und auf Sachen hinweisen, die du tun würdest (aber in der
+            Demo nicht wirklich getan hast).
+          </p>
+          <p className="mt-3 text-[15px] leading-relaxed text-white/90">
+            Bearbeite deinen Posteingang in einer Reihenfolge deiner Wahl.
           </p>
           <ul className="mt-8 space-y-4 text-sm text-white/90">
             <li className="flex gap-3">
